@@ -1,0 +1,17 @@
+# Ignorar archivos de entorno
+.env
+
+# Ignorar directorios de logs y migraciones
+/storage/logs/
+/storage/migrations/
+
+# Ignorar archivos de dependencias
+/vendor/
+
+# Ignorar archivos temporales de IDEs
+.idea/
+.vscode/
+
+# Ignorar archivos de sistema
+.DS_Store
+Thumbs.db
